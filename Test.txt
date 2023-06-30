@@ -1,0 +1,126 @@
+APTITUDE
+
+1.b)31
+2.c)20
+3.a)100
+4.c)63
+5.a)9
+6.b)K
+7.c)O
+8.b)FR
+9.c)bccab
+10.a)GOV
+11.2
+12.38
+13.Window
+14.Sun
+15.BE
+
+JAVA TEST
+
+1.java is a program  file,used to run the byte code.
+javac is a program fie located in jdk/bin directory,is used to compile the java file and to generate the byte code.
+
+2.JDK is a Java Development Kit contains tools to execute java program
+JRE is a Java Run-Time Environment,contains libraries
+JVM is Java Virtual Machine executes the java program
+
+3.Limitations of array
+*once the array is declared,we can't modify the order of the elements
+*it is difficult access elements without index
+
+4.class is a blueprint to create instances
+object is instance of a class
+Signature of class
+class ClassName
+{
+}
+class: class is a keyword used to declare a class
+ClassName: Name of the class
+{}:Body of the class
+
+5.Array is a Collection of similar type of data 
+
+6..java file is the program created by developer.
+Anyone can understand the .java file, it is written in english language
+.java file is used to compile the program
+.class file is generated automatically by the compiler when the .java file is compiled
+Only machine can understand the .class file
+.class file or byte code is used to execute the program.
+
+7.Length of array is 6
+
+8.method signature
+ AccessSpecifier Non-AccessSpecifier ReturnType MethodName(parameters)
+ {
+ }
+ Access Specifier can be public,privite,protected
+ Non-AccessSpecifier can be static,non-static
+ ReturnType can be a void or primitive datatype or non-primitive datatype
+ MethodName is a name of the method
+ parameters-the local variables declared at the time of method declaration
+{} - Body of the method
+
+9.Java is a Object Oriented Programming language
+Developed by Games Gossling
+Java is popular due to its feature Platform Independent
+java is platform independent because of generation of byte code.
+
+10.variables are the containers to strore the address of the data present in a constant pool
+Syntax to declare a variable: 
+DataType VariableName; this is declaration
+DataType VariableName=value; this is declaration and initialization
+types of variables:
+local variables:which are declared inside a class boundry
+static varibles:The variable which have a prefix statc keyword known as static variables
+
+11.Variables which are declared inside a class are known as class variables.
+
+12.DataType is defining the type of data that a variable can hold.
+Types
+Primitive Data type:int,char,byte,short,double,float,boolean,long
+Non-Primitive Data type:String
+
+13.Features of java
+Platform independent
+It is written in english language
+Object Oriented
+Security
+
+14.
+
+15.When we try to access the index of an element in the array that is greater than size of the array,compiler prints an error message Index out of Bound
+
+16.System.out.println(); is a statement is used to print the message on the cmd
+System:is a pre-defined class
+.(Dot):is a operator used to access the class members
+out:is a variable
+println:is a method()
+
+17.Double equal operator is used to check wheather two reference variables are pointing to the same memory location
+
+18.Dot operator used to access the class members
+
+19.The class which coints the main method
+
+20.public,static,void,for,if,return,all Primitive data types(int,float,double,char,byte,short,long,boolean)
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
