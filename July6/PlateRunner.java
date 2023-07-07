@@ -1,0 +1,91 @@
+class PlateRunner
+{
+public static void main(String[] args) 
+{
+      
+        Plate plate1 = new Plate("Ceramic", "Round", 10, "White", "good","2years" , 11, 100.00);
+        Plate plate2 = new Plate("Melamine", "Square", 8, "Blue", "good","5years" , 11, 160.00);
+        Plate plate3 = new Plate("Glass", "Round", 12, "Clear", "good","4years" , 11, 120.00);
+        Plate plate4 = new Plate("Plastic", "Oval", 9, "Red", "good","3years" , 11, 500.00);
+        Plate plate5 = new Plate("Porcelain", "Round", 11, "Cream","good","2years" , 11, 200.00);
+        Plate plate6 = new Plate("Stainless Steel", "Square", 7, "Silver","good","1years" , 110, 50.00);
+        Plate plate7 = new Plate("Bamboo", "Round", 10, "Natural","good","2years" , 11, 110.00);
+        Plate plate8 = new Plate("Acrylic", "Oval", 9, "Green", "good","3years" , 11, 160.00);
+		System.out.println("Material: " +plate1.material);
+        System.out.println("Shape: " + plate1.shape);
+        System.out.println("Diameter: " + plate1.diameter + " inches");
+        System.out.println("Color: " + plate1.color);
+        System.out.println("Quality: " + plate1.quality);
+        System.out.println("Guarantee: " + plate1.guarantee);
+        System.out.println("weight: " + plate1.weight+"gm");
+        System.out.println("Price: " + plate1.price + " RS");
+		System.out.println("--------------------------------------------");
+		System.out.println("Material: " +plate2.material);
+        System.out.println("Shape: " + plate2.shape);
+        System.out.println("Diameter: " + plate2.diameter + " inches");
+		System.out.println("Material: " +plate2.material);
+        System.out.println("Shape: " + plate2.shape);
+        System.out.println("Diameter: " + plate2.diameter + " inches");
+        System.out.println("Color: " + plate2.color);
+        System.out.println("Quality: " + plate2.quality);
+        System.out.println("Guarantee: " + plate2.guarantee);
+        System.out.println("weight: " + plate2.weight+"gm");
+        System.out.println("Price: " + plate2.price + " RS");
+		System.out.println("--------------------------------------------");
+		System.out.println("Material: " +plate3.material);
+        System.out.println("Shape: " + plate3.shape);
+        System.out.println("Diameter: " + plate3.diameter + " inches");
+        System.out.println("Color: " + plate3.color);
+        System.out.println("Quality: " + plate3.quality);
+        System.out.println("Guarantee: " + plate3.guarantee);
+        System.out.println("weight: " + plate3.weight+"gm");
+        System.out.println("Price: " + plate3.price + " RS");
+		System.out.println("--------------------------------------------");
+		System.out.println("Material: " +plate4.material);
+        System.out.println("Shape: " + plate4.shape);
+        System.out.println("Diameter: " + plate4.diameter + " inches");
+        System.out.println("Color: " + plate4.color);
+        System.out.println("Quality: " + plate4.quality);
+        System.out.println("Guarantee: " + plate4.guarantee);
+        System.out.println("weight: " + plate4.weight+"gm");
+        System.out.println("Price: " + plate4.price + " RS");
+		System.out.println("--------------------------------------------");
+		System.out.println("Material: " +plate5.material);
+        System.out.println("Shape: " + plate5.shape);
+        System.out.println("Diameter: " + plate5.diameter + " inches");
+        System.out.println("Color: " + plate5.color);
+        System.out.println("Quality: " + plate5.quality);
+        System.out.println("Guarantee: " + plate5.guarantee);
+        System.out.println("weight: " + plate5.weight+"gm");
+        System.out.println("Price: " + plate5.price + " RS");
+		System.out.println("--------------------------------------------");
+		System.out.println("Material: " +plate6.material);
+        System.out.println("Shape: " + plate6.shape);
+        System.out.println("Diameter: " + plate6.diameter + " inches");
+        System.out.println("Color: " + plate6.color);
+        System.out.println("Quality: " + plate6.quality);
+        System.out.println("Guarantee: " + plate6.guarantee);
+        System.out.println("weight: " + plate6.weight+"gm");
+        System.out.println("Price: " + plate6.price + " RS");
+		System.out.println("--------------------------------------------");
+		System.out.println("Material: " +plate7.material);
+        System.out.println("Shape: " + plate7.shape);
+        System.out.println("Diameter: " + plate7.diameter + " inches");
+        System.out.println("Color: " + plate7.color);
+        System.out.println("Quality: " + plate7.quality);
+        System.out.println("Guarantee: " + plate7.guarantee);
+        System.out.println("weight: " + plate7.weight+"gm");
+        System.out.println("Price: " + plate7.price + " RS");
+		System.out.println("--------------------------------------------");
+		System.out.println("Material: " +plate8.material);
+        System.out.println("Shape: " + plate8.shape);
+        System.out.println("Diameter: " + plate8.diameter + " inches");
+        System.out.println("Color: " + plate8.color);
+        System.out.println("Quality: " + plate8.quality);
+        System.out.println("Guarantee: " + plate8.guarantee);
+        System.out.println("weight: " + plate8.weight+"gm");
+        System.out.println("Price: " + plate8.price + " RS");
+		System.out.println("----------------------------------------");
+}
+}
+		
